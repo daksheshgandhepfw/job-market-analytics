@@ -1,0 +1,24 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and sensitive credentials
+.env
+
+# Distribution / builds
+build/
+dist/
+*.egg-info/
