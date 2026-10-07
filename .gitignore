@@ -22,3 +22,25 @@ env/
 build/
 dist/
 *.egg-info/
+
+# Python virtual environment
+.venv/
+
+# Google/Gmail API credentials
+credentials.json
+token.json
+
+# --------------------------------------------------
+# Project data
+# --------------------------------------------------
+
+# Raw source data may contain private/personal information
+data/raw/*
+
+# Ignore generated/intermediate processed data by default
+data/processed/*
+
+# Keep selected portfolio-ready analytical datasets
+!data/processed/jobs_final.csv
+!data/processed/applications.csv
+!data/processed/application_analysis.csv
