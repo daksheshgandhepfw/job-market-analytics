@@ -150,8 +150,7 @@ application_analysis = application_analysis[
         "status",
         "response_status",
         "first_response_date",
-        "email_count",
-        "email_ids"
+        "email_count"
     ]
 ].copy()
 
