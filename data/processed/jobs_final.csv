@@ -1,0 +1,456 @@
+job_id,company_name,job_title,job_title_clean,role_category,career_level
+JOB0001,Mulligan Funding,Data Scientist I - Management Trainee,Data Scientist I - Management Trainee,Data Science,Unspecified
+JOB0002,Orbital Industries,Test Engineer,Test Engineer,QA / Testing,Unspecified
+JOB0003,Clearview Cancer Institute,Quality Data Analyst,Quality Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0004,Weave,Data Engineer Intern,Data Engineer Intern,Data Engineering,Internship / Co-op
+JOB0005,Amazon,"Data Engineer, Decision Intelligence Technology","Data Engineer, Decision Intelligence Technology",Data Engineering,Unspecified
+JOB0006,Mass General Brigham,Biostatistician 1,Biostatistician 1,Data Science,Unspecified
+JOB0007,Propio,Data Analytics Intern,Data Analytics Intern,Data / Analytics Analyst,Internship / Co-op
+JOB0008,Waymo,"2027 Summer Intern, MS/PhD, Machine Learning Engineer","2027 Summer Intern, MS/PhD, Machine Learning Engineer",AI / Machine Learning,Internship / Co-op
+JOB0009,Jabil,Business Intelligence Analyst and Developer I,Business Intelligence Analyst and Developer I,Business Intelligence,Unspecified
+JOB0010,Alpha Omega,Junior AI Programmer Analyst,Junior AI Programmer Analyst,AI / Machine Learning,Entry Level / Junior
+JOB0011,Brio Real Estate LLC,Associate Data Analyst,Associate Data Analyst,Data / Analytics Analyst,Associate
+JOB0012,Abnormal,Software Engineer II - Data Security,Software Engineer II - Data Security,Software Engineering,Unspecified
+JOB0013,Mass General Brigham,Biostatistician 1,Biostatistician 1,Data Science,Unspecified
+JOB0014,Anduril Industries,2026 Early Career Software Engineer,2026 Early Career Software Engineer,Software Engineering,New Graduate / Early Career
+JOB0015,Sift,Software Engineer – New College Graduate,Software Engineer – New College Graduate,Software Engineering,Unspecified
+JOB0016,Pryzm,Federal Data Analyst,Federal Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0017,KBR,"Data Engineer, JR","Data Engineer, JR",Data Engineering,Entry Level / Junior
+JOB0018,"Associated Wholesale Grocers, Inc",Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0019,Philips,"Co-op-Data Engineering-Reedsville, PA-January-June 2027-587484","Co-op-Data Engineering-Reedsville, PA-January-June 2027-587484",Data Engineering,Internship / Co-op
+JOB0020,Philips,"Co-op-Data Engineering-Reedsville, PA-July-December 2027-587486","Co-op-Data Engineering-Reedsville, PA-July-December 2027-587486",Data Engineering,Internship / Co-op
+JOB0021,Mass General Brigham,Data Analyst I,Data Analyst I,Data / Analytics Analyst,Unspecified
+JOB0022,Valon,,,Unknown,Unknown
+JOB0023,Applied Materials,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0024,CATHEXIS,Software Engineer (req-291),Software Engineer (req-291),Software Engineering,Unspecified
+JOB0025,Jovian Concepts,,,Unknown,Unknown
+JOB0026,Jovian Concepts,,,Unknown,Unknown
+JOB0027,Baker Hughes,Software Engineer,Software Engineer,Software Engineering,Unspecified
+JOB0028,SMX,Junior Data Analytics & Reporting Specialist (5588),Junior Data Analytics & Reporting Specialist (5588),Data / Analytics Analyst,Entry Level / Junior
+JOB0029,Invenergy,"Analyst, Geospatial (GIS)","Analyst, Geospatial (GIS)",Other Analyst,Unspecified
+JOB0030,Tyson Foods,Foods Analytics Analyst - Walmart,Foods Analytics Analyst - Walmart,Data / Analytics Analyst,Unspecified
+JOB0031,ConocoPhillips,"Graduate, Information Technology 2027","Graduate, Information Technology 2027",Information Technology,Unspecified
+JOB0032,Awetomaton,,,Unknown,Unknown
+JOB0033,Berkadia,Software Developer,Software Developer,Software Engineering,Unspecified
+JOB0034,Makai Labs,Forward Deployed AI Analyst,Forward Deployed AI Analyst,Other Analyst,Unspecified
+JOB0035,Chewy,,,Unknown,Unknown
+JOB0036,Clera,Founding AI Engineer,Founding AI Engineer,AI / Machine Learning,Unspecified
+JOB0037,Symphony Communication Services,"Placement, Business Intelligence and Solutions","Placement, Business Intelligence and Solutions",Business Intelligence,Unspecified
+JOB0038,Edgehog Trading,Graduate Software Engineer,Graduate Software Engineer,Software Engineering,Unspecified
+JOB0039,Iambic Therapeutics,Software Engineer — Agentic data pipelines,Software Engineer — Agentic data pipelines,Software Engineering,Unspecified
+JOB0040,Solace,Associate Data Engineer (College Grad 2027),Associate Data Engineer (College Grad 2027),Data Engineering,Associate
+JOB0041,Cleary Gottlieb Steen & Hamilton LLP,,,Unknown,Unknown
+JOB0042,HealthEdge,Associate Software Engineer,Associate Software Engineer,Software Engineering,Associate
+JOB0043,Iambic Therapeutics,Machine Learning Scientist — Large Multimodal Models (Post-Training),Machine Learning Scientist — Large Multimodal Models (Post-Training),AI / Machine Learning,Unspecified
+JOB0044,CATHEXIS,AI/ML Software Developer (req-287),AI/ML Software Developer (req-287),Software Engineering,Unspecified
+JOB0045,Booz Allen Hamilton,"University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL","University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL",Data Science,Internship / Co-op
+JOB0046,Applied Materials,"Data Scientist II, New College Grad- Master's (Santa Clara, CA)","Data Scientist II, New College Grad- Master's (Santa Clara, CA)",Data Science,Unspecified
+JOB0047,Booz Allen Hamilton,"Data Scientist, Senior","Data Scientist, Senior",Data Science,Senior
+JOB0048,Booz Allen Hamilton,University - Full-Stack Developer,University - Full-Stack Developer,Software Engineering,Unspecified
+JOB0049,Booz Allen Hamilton,"University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD","University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD",Software Engineering,Internship / Co-op
+JOB0050,Dev Technology,,,Unknown,Unknown
+JOB0051,Clarity Innovations,,,Unknown,Unknown
+JOB0052,McKesson,Data Analyst Intern - Summer,Data Analyst Intern - Summer,Data / Analytics Analyst,Internship / Co-op
+JOB0053,Ingredion,an opportunity,,Unknown,Unknown
+JOB0054,Plexus Corp,Intern - IT Data Science,Intern - IT Data Science,Data Science,Internship / Co-op
+JOB0055,Amex,Campus Undergraduate Summer Internship Program - 2027 Data Engineer,Campus Undergraduate Summer Internship Program - 2027 Data Engineer,Data Engineering,Internship / Co-op
+JOB0056,Applied Materials,"Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)","Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)",Data / Analytics Analyst,Internship / Co-op
+JOB0057,the Lilly Team,Eli Lilly Business Insights & Analytics Data Engineering Intern,Eli Lilly Business Insights & Analytics Data Engineering Intern,Data Engineering,Internship / Co-op
+JOB0058,First Solar,our Data Scientist Intern (Fall 2026),our Data Scientist Intern (Fall 2026),Data Science,Internship / Co-op
+JOB0059,Pella,Data Engineer Intern - Summer 2027 - 253304,Data Engineer Intern - Summer 2027 - 253304,Data Engineering,Internship / Co-op
+JOB0060,CATHEXIS,Software Engineer (req-292),Software Engineer (req-292),Software Engineering,Unspecified
+JOB0061,Philips,"Co-op-Data Engineering-Reedsville, PA-January-June 2027-587484 position at Philips",Data Engineering Co-op,Data Engineering,Internship / Co-op
+JOB0062,Kodiak,,,Unknown,Unknown
+JOB0063,Extreme Engineering Solutions,Data Analyst Co-Op,Data Analyst Co-Op,Data / Analytics Analyst,Internship / Co-op
+JOB0064,Philips,"Co-op-Data Engineering-Reedsville, PA-July-December 2027-587486 position at Philips",Data Engineering Co-op,Data Engineering,Internship / Co-op
+JOB0065,Booz Allen Hamilton,"Data Scientist, Mid","Data Scientist, Mid",Data Science,Unspecified
+JOB0066,Booz Allen Hamilton,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0067,Booz Allen Hamilton,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0068,Horizon Media,"Associate, Data Science","Associate, Data Science",Data Science,Associate
+JOB0069,CNA,Technology Internship Program (Data Engineering),Technology Internship Program (Data Engineering),Data Engineering,Internship / Co-op
+JOB0070,M9 Solutions,,,Unknown,Unknown
+JOB0071,UL Solutions,Associate Data Scientist,Associate Data Scientist,Data Science,Associate
+JOB0072,Booz Allen Hamilton,University - Full-Stack Developer,University - Full-Stack Developer,Software Engineering,Unspecified
+JOB0073,q2ebanking,,,Unknown,Unknown
+JOB0074,OneStream Software,Associate AI Engineer,Associate AI Engineer,AI / Machine Learning,Associate
+JOB0075,Garner Health,,,Unknown,Unknown
+JOB0076,SpaceX,Data Scientist (Starlink),Data Scientist (Starlink),Data Science,Unspecified
+JOB0077,avav,,,Unknown,Unknown
+JOB0078,SpaceX,"Full Stack Engineer, Flight Software","Full Stack Engineer, Flight Software",Software Engineering,Unspecified
+JOB0079,We Got It,a position at VAST Data,,Unknown,Unknown
+JOB0080,Audax Private Equity,"Data Analyst, Business Development CO-OP","Data Analyst, Business Development CO-OP",Data / Analytics Analyst,Internship / Co-op
+JOB0081,Zest AI,,,Unknown,Unknown
+JOB0082,pursuing employment with the Clark Associates Companies,Logistics Data Analyst Intern (Remote Friendly),Logistics Data Analyst Intern (Remote Friendly),Data / Analytics Analyst,Internship / Co-op
+JOB0083,Crowe,Data Analytics Developer Intern,Data Analytics Developer Intern,Data / Analytics Analyst,Internship / Co-op
+JOB0084,Loram,Enterprise Power BI Reporting Intern,Enterprise Power BI Reporting Intern,Business Intelligence,Internship / Co-op
+JOB0085,The Newrez Family of Companies,Data Strategy Analyst,Data Strategy Analyst,Other Analyst,Unspecified
+JOB0086,Navan,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0087,Roots Through Recovery,"Associate Engineer, Data & Applications","Associate Engineer, Data & Applications",Other Engineering,Associate
+JOB0088,JDI Recruitment,"position of Data Analyst Student, Corporate HR - Winter 2027 11922 with J",Data Analyst Student,Data / Analytics Analyst,Unspecified
+JOB0089,River Run Services,Applications & Data Analyst,Applications & Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0090,PMHCC,,,Unknown,Unknown
+JOB0091,York Space Systems,Flight Software Platform Engineer,Flight Software Platform Engineer,Other Engineering,Unspecified
+JOB0092,ITS Logistics,Associate Data Analyst - Liberty (Reno),Associate Data Analyst - Liberty (Reno),Data / Analytics Analyst,Associate
+JOB0093,VIAVI Solutions,Program Development Engineer,Program Development Engineer,Other Engineering,Unspecified
+JOB0094,Amex,Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics,Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics,Data / Analytics Analyst,New Graduate / Early Career
+JOB0095,Oddball,,,Unknown,Unknown
+JOB0096,Canonical,Software Engineer - Python - Cloud - graduate level,Software Engineer - Python - Cloud - graduate level,Software Engineering,Unspecified
+JOB0097,Torc Robotics,,,Unknown,Unknown
+JOB0098,Keebler Health,Data Engineer (Health Data Metrics),Data Engineer (Health Data Metrics),Data Engineering,Unspecified
+JOB0099,DarkStar Intelligence LLC,Data Analyst,Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0100,42dot,"position Machine Learning & Data Engineer, Vehicle Modeling",Machine Learning & Data Engineer,AI / Machine Learning,Unspecified
+JOB0101,Waymo,Data Infra Engineer,Data Infra Engineer,Other Engineering,Unspecified
+JOB0102,SNC,,,Unknown,Unknown
+JOB0103,SMX,Junior Data Engineer (5566),Junior Data Engineer (5566),Data Engineering,Entry Level / Junior
+JOB0104,Saint Louis University,Career Services Data Analyst,Career Services Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0105,Livefront,,,Unknown,Unknown
+JOB0106,Baselayer,,,Unknown,Unknown
+JOB0107,Consertus,Jr. Data Analyst,Jr. Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0108,"Choice Hotels International, Inc",Software Engineer 1 - Data Team,Software Engineer 1 - Data Team,Software Engineering,Unspecified
+JOB0109,vistra corp,Associate Data Analyst-Retail,Associate Data Analyst-Retail,Data / Analytics Analyst,Associate
+JOB0110,Amex,Campus Graduate Masters Summer Internship Program - 2027 Data Engineer,Campus Graduate Masters Summer Internship Program - 2027 Data Engineer,Data Engineering,Internship / Co-op
+JOB0111,Alcon,"2027 Summer Software, Data & AI Engineering Interns","2027 Summer Software, Data & AI Engineering Interns",AI / Machine Learning,Internship / Co-op
+JOB0112,Stirista LLC,Data Analyst I,Data Analyst I,Data / Analytics Analyst,Unspecified
+JOB0113,Morningstar,,,Unknown,Unknown
+JOB0114,kbr,"Data Engineer, JR","Data Engineer, JR",Data Engineering,Entry Level / Junior
+JOB0115,Busey,,,Unknown,Unknown
+JOB0116,BNY,2027 BNY Summer Internship Program - Engineering (Data Science),2027 BNY Summer Internship Program - Engineering (Data Science),Data Science,Internship / Co-op
+JOB0117,ICF,Data Analyst / Embedded UAT Tester - (Junior/Mid - Remote - US),Data Analyst / Embedded UAT Tester - (Junior/Mid - Remote - US),Data / Analytics Analyst,Entry Level / Junior
+JOB0118,TheGuarantors,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0119,the Lilly Team,Eli Lilly Technology Data Engineer - Intern to FTE,Eli Lilly Technology Data Engineer - Intern to FTE,Data Engineering,Internship / Co-op
+JOB0120,Oneoncology,Quality Data Analyst,Quality Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0121,Weave,Data Engineer Intern,Data Engineer Intern,Data Engineering,Internship / Co-op
+JOB0122,alwayscompassionate,,,Unknown,Unknown
+JOB0123,alwayscompassionate,,,Unknown,Unknown
+JOB0124,SpaceX,"Full Stack Software Engineer, Data Platform (Starlink)","Full Stack Software Engineer, Data Platform (Starlink)",Software Engineering,Unspecified
+JOB0125,the Lilly Team,Eli Lilly AI Data Engineering Intern (BS),Eli Lilly AI Data Engineering Intern (BS),Data Engineering,Internship / Co-op
+JOB0126,canadiansolar,,,Unknown,Unknown
+JOB0127,SpaceX,Data Engineer (Starlink),Data Engineer (Starlink),Data Engineering,Unspecified
+JOB0128,Vercel,"Software Engineer, Data Platform","Software Engineer, Data Platform",Software Engineering,Unspecified
+JOB0129,NISC,Intern - Data Engineer,Intern - Data Engineer,Data Engineering,Internship / Co-op
+JOB0130,Riverside Natural Foods Ltd,Junior Data Analyst Intern/Co-op,Junior Data Analyst Intern/Co-op,Data / Analytics Analyst,Internship / Co-op
+JOB0131,Winsupply,Data Analyst Intern,Data Analyst Intern,Data / Analytics Analyst,Internship / Co-op
+JOB0132,Ranch Ehrlo Society,Data Insights Analyst,Data Insights Analyst,Other Analyst,Unspecified
+JOB0133,"Red Pulley, Inc",Health IT Data Analyst,Health IT Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0134,2ndWave LLC,Data Analyst I,Data Analyst I,Data / Analytics Analyst,Unspecified
+JOB0135,"INDUS Technology, Inc.",Power Platform Developer/Data Analyst,Power Platform Developer/Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0136,Garner Health,,,Unknown,Unknown
+JOB0137,Arch,Data Processing Analyst (12 Month Fixed Term Contract),Data Processing Analyst (12 Month Fixed Term Contract),Other Analyst,Unspecified
+JOB0138,"Yelp, Inc",Entry Level Data Backend Engineer - Trust & Safety (Remote - Canada),Entry Level Data Backend Engineer - Trust & Safety (Remote - Canada),Software Engineering,Entry Level / Junior
+JOB0139,"Canon U.S.A., Inc",,,Unknown,Unknown
+JOB0140,RTX,"position of 01870647 Software Engineer I (Hybrid) Arlington, VA & Cambridge, MA",Software Engineer I,Software Engineering,Unspecified
+JOB0141,Precisely,Associate software Engineer (Python AI),Associate software Engineer (Python AI),Software Engineering,Associate
+JOB0142,MintMCP,Software Engineer,Software Engineer,Software Engineering,Unspecified
+JOB0143,PolicyMe,Junior Software Engineer (Remote),Junior Software Engineer (Remote),Software Engineering,Entry Level / Junior
+JOB0144,Status Update,Engineering Data Analyst,Engineering Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0145,Booz Allen Hamilton,"Software Engineer, Junior","Software Engineer, Junior",Software Engineering,Entry Level / Junior
+JOB0146,Booz Allen Hamilton,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0147,Bestgate Engineering,Cleared System Engineer (Entry Level),Cleared System Engineer (Entry Level),Other Engineering,Entry Level / Junior
+JOB0148,GM,Manufacturing Cybersecurity Data Engineer,Manufacturing Cybersecurity Data Engineer,Data Engineering,Unspecified
+JOB0149,Amex,Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst,Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst,Other Analyst,Associate
+JOB0150,Amex,Campus Graduate Masters Full-Time Manager - 2027 Data Engineer II,Campus Graduate Masters Full-Time Manager - 2027 Data Engineer II,Data Engineering,New Graduate / Early Career
+JOB0151,Amex,Campus Undergraduate Full-Time Analyst - 2027 Data Engineer I,Campus Undergraduate Full-Time Analyst - 2027 Data Engineer I,Data Engineering,Unspecified
+JOB0152,Amex,"Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics, Enterprise Technology Services- New York, NY","Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics, Enterprise Technology Services- New York, NY",Data / Analytics Analyst,Unspecified
+JOB0153,Amex,Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I,Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I,Software Engineering,Unspecified
+JOB0154,Amex,Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I,Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I,AI / Machine Learning,New Graduate / Early Career
+JOB0155,Amex,"Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC","Campus Undergraduate Full-Time Analyst - 2027 Data & Analytics , Enterprise Technology Services- Charlotte, NC",Data / Analytics Analyst,Unspecified
+JOB0156,CAA,,,Unknown,Unknown
+JOB0157,Amex,Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II,Campus Graduate Masters Full-Time Engineer - 2027 Software Engineer II,Software Engineering,New Graduate / Early Career
+JOB0158,Tebra,Software Engineer I,Software Engineer I,Software Engineering,Unspecified
+JOB0159,Oscar,Data Scientist I,Data Scientist I,Data Science,Unspecified
+JOB0160,AIG,,,Unknown,Unknown
+JOB0161,The Newrez Family of Companies,TRAIL Rising Leaders Program - Data Product Engineering,TRAIL Rising Leaders Program - Data Product Engineering,Other Engineering,Lead / Principal / Staff
+JOB0162,Sierra,"Software Engineer, Agent (New Grad 2027)","Software Engineer, Agent (New Grad 2027)",Software Engineering,New Graduate / Early Career
+JOB0163,Alpha Omega Integration,Junior AI Programmer Analyst,Junior AI Programmer Analyst,AI / Machine Learning,Entry Level / Junior
+JOB0164,cornell,Data and Systems Specialist posting number WDR-00060961 at Cornell University,Data and Systems Specialist posting number WDR-00060961 at Cornell University,Other,Unspecified
+JOB0165,Amex,Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I,Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I,AI / Machine Learning,Unspecified
+JOB0166,KLA,Software Engineer,Software Engineer,Software Engineering,Unspecified
+JOB0167,Globe Life,Data Analyst I (Remote) Role at,Data Analyst I (Remote) Role at,Data / Analytics Analyst,Unspecified
+JOB0168,Credigy,,,Unknown,Unknown
+JOB0169,Booz Allen Hamilton,University - Applied AI Software Developer,University - Applied AI Software Developer,Software Engineering,Unspecified
+JOB0170,AbbVie,"Associate Scientist, Data I-R00149444 position at AbbVie","Associate Scientist, Data I",Data Science,Associate
+JOB0171,CapTech Consulting,,,Unknown,Unknown
+JOB0172,"The Information Millennium Group, Inc",Energy Data Analyst,Energy Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0173,T-Mobile,"REQ369271 Assoc Engineer, Software","REQ369271 Assoc Engineer, Software",Other Engineering,Unspecified
+JOB0174,Unity,"Machine Learning Engineer, New Grad","Machine Learning Engineer, New Grad",AI / Machine Learning,New Graduate / Early Career
+JOB0175,Booz Allen Hamilton,"AI Software Developer, Junior","AI Software Developer, Junior",Software Engineering,Entry Level / Junior
+JOB0176,CDK Global,,,Unknown,Unknown
+JOB0177,Tebra,Software Engineer I,Software Engineer I,Software Engineering,Unspecified
+JOB0178,Booz Allen Hamilton,University - Product Engineer,University - Product Engineer,Other Engineering,Unspecified
+JOB0179,Katalyst Space Technologies,Recent Graduate - Software Engineer I,Recent Graduate - Software Engineer I,Software Engineering,Unspecified
+JOB0180,HOUSEMAX FUNDING LLC,Junior Software Engineer,Junior Software Engineer,Software Engineering,Entry Level / Junior
+JOB0181,Kinective,Associate Software Engineer,Associate Software Engineer,Software Engineering,Associate
+JOB0182,Dreamscape Hospitality,Engineer I,Engineer I,Other Engineering,Unspecified
+JOB0183,Nextnav,Test SW Engineer,Test SW Engineer,Other Engineering,Unspecified
+JOB0184,Pluto (YC),,,Unknown,Unknown
+JOB0185,VIAVI Solutions,Early Careers R&D Rotational Program - Test Automation,Early Careers R&D Rotational Program - Test Automation,QA / Testing,New Graduate / Early Career
+JOB0186,Booz Allen Hamilton,AI Software Developer Intern,AI Software Developer Intern,Software Engineering,Internship / Co-op
+JOB0187,AXQ Capital,,,Unknown,Unknown
+JOB0188,SpaceX,"Full Stack Software Engineer, Developer Systems","Full Stack Software Engineer, Developer Systems",Software Engineering,Unspecified
+JOB0189,Providence,Data Engineer I IS - Remote,Data Engineer I IS - Remote,Data Engineering,Unspecified
+JOB0190,Johnson & Johnson,"Software Engineer, Infrastructure R-096093 at Johnson & Johnson","Software Engineer, Infrastructure R-096093 at Johnson & Johnson",Software Engineering,Unspecified
+JOB0191,the University of Rochester,,,Unknown,Unknown
+JOB0192,Clarity Innovations,,,Unknown,Unknown
+JOB0193,Mariana Minerals,our team and the effort you’ve taken,,Unknown,Unknown
+JOB0194,IXL Learning,,,Unknown,Unknown
+JOB0195,LLNL,Computing Graduate Student Intern - Spring 2027,Computing Graduate Student Intern - Spring 2027,Other,Internship / Co-op
+JOB0196,DaVita Kidney Care,"Data Analyst, Clinical Analytics and Reporting","Data Analyst, Clinical Analytics and Reporting",Data / Analytics Analyst,Unspecified
+JOB0197,Lila Sciences,,,Unknown,Unknown
+JOB0198,Mercor,"Software Engineer, Frontier Data Products","Software Engineer, Frontier Data Products",Software Engineering,Unspecified
+JOB0199,Jobgether,Data Engineer 2,Data Engineer 2,Data Engineering,Unspecified
+JOB0200,Clera,"Research Engineer, Synthetic Data","Research Engineer, Synthetic Data",Other Engineering,Unspecified
+JOB0201,Alt Platform Inc,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0202,Jobs for Humanity,,,Unknown,Unknown
+JOB0203,Adonis,Data Platform Engineer,Data Platform Engineer,Other Engineering,Unspecified
+JOB0204,Jump Trading,potential opportunities,,Unknown,Unknown
+JOB0205,Abnormal,,,Unknown,Unknown
+JOB0206,Clera,"Software Engineer, AI & Data Systems","Software Engineer, AI & Data Systems",Software Engineering,Unspecified
+JOB0207,AbbVie,"Analyst, Data Systems-R00149646 position at AbbVie","Analyst, Data Systems",Data / Analytics Analyst,Unspecified
+JOB0208,MDA Space 49North Ltd,"Junior Member of Technical Staff (Engineer), Software Developer role JUNIO012405 at MDA Space 49North Ltd","Junior Member of Technical Staff (Engineer), Software Developer role JUNIO012405 at MDA Space 49North Ltd",Software Engineering,Entry Level / Junior
+JOB0209,B&A,,,Unknown,Unknown
+JOB0210,Booz Allen Hamilton,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0211,SRI International,Software Engineer,Software Engineer,Software Engineering,Unspecified
+JOB0212,Cotiviti,"Intern AI Engineer, Early-Career – LLM Context & Data Layer (Healthcare)","Intern AI Engineer, Early-Career – LLM Context & Data Layer (Healthcare)",AI / Machine Learning,Internship / Co-op
+JOB0213,LMI,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0214,Maxinsights,Data Operations Generalist,Data Operations Generalist,Data Engineering,Unspecified
+JOB0215,Amivero,Software Engineer (2026-2270) to join us at Amivero,Software Engineer (2026-2270) to join us at Amivero,Software Engineering,Unspecified
+JOB0216,R3 CONTINUUM LLC,Data Analyst I,Data Analyst I,Data / Analytics Analyst,Unspecified
+JOB0217,WellSky,,,Unknown,Unknown
+JOB0218,Amex,Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics,Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics,Data / Analytics Analyst,New Graduate / Early Career
+JOB0219,JAIL ADULT DETENTION CENTER,Data Analyst- Sheriff's Office,Data Analyst- Sheriff's Office,Data / Analytics Analyst,Unspecified
+JOB0220,Henry Ford Health,Business Intelligence Analyst,Business Intelligence Analyst,Business Intelligence,Unspecified
+JOB0221,UL Solutions,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0222,G2,Data Analytics Specialist,Data Analytics Specialist,Data / Analytics Analyst,Unspecified
+JOB0223,Atlas Van Lines,Database Engineer,Database Engineer,Other Engineering,Unspecified
+JOB0224,Capco,,,Unknown,Unknown
+JOB0225,Applied Materials,"Algorithm Developer I New College Grad- Bachelor's (Santa Clara, CA)","Algorithm Developer I New College Grad- Bachelor's (Santa Clara, CA)",Other Development,Unspecified
+JOB0226,exelixis,,,Unknown,Unknown
+JOB0227,Western Digital,Software Engineer,Software Engineer,Software Engineering,Unspecified
+JOB0228,Ipsos,"Research Analyst, Global Modeling Unit","Research Analyst, Global Modeling Unit",Other Analyst,Unspecified
+JOB0229,IXL Learning,,,Unknown,Unknown
+JOB0230,Noom,Agentic Engineer (New Grad),Agentic Engineer (New Grad),Other Engineering,New Graduate / Early Career
+JOB0231,our company,"Data Engineer, DA&AI Co-Op","Data Engineer, DA&AI Co-Op",Data Engineering,Internship / Co-op
+JOB0232,kencogroup,,,Unknown,Unknown
+JOB0233,Sajix Software Solution Private Limited,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0234,IXL Learning,,,Unknown,Unknown
+JOB0235,Booz Allen Hamilton,University - Data Engineer,University - Data Engineer,Data Engineering,Unspecified
+JOB0236,True Anomaly,,,Unknown,Unknown
+JOB0237,Johnson Brothers,,,Unknown,Unknown
+JOB0238,Zynga,,,Unknown,Unknown
+JOB0239,verdantas,Data Analyst I,Data Analyst I,Data / Analytics Analyst,Unspecified
+JOB0240,Affirm,Analyst position at Affirm,Analyst,Other Analyst,Unspecified
+JOB0241,AIG,,,Unknown,Unknown
+JOB0242,IXL Learning,,,Unknown,Unknown
+JOB0243,Tavern Research,,,Unknown,Unknown
+JOB0244,Emory,Data Analyst II,Data Analyst II,Data / Analytics Analyst,Unspecified
+JOB0245,WellSky,,,Unknown,Unknown
+JOB0246,Precisely,,,Unknown,Unknown
+JOB0247,Genpact,,,Unknown,Unknown
+JOB0248,Booz Allen Hamilton,"University, Data Engineer","University, Data Engineer",Data Engineering,Unspecified
+JOB0249,Solace,Associate Data Engineer (CollegeGrad 2027),Associate Data Engineer (CollegeGrad 2027),Data Engineering,Associate
+JOB0250,promachbuilt,,,Unknown,Unknown
+JOB0251,Oscar,IT Analyst,IT Analyst,Other Analyst,Unspecified
+JOB0252,Sciemo,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0253,AEP,Data Scientist Associate - Data Scientist Sr,Data Scientist Associate - Data Scientist Sr,Data Science,Associate
+JOB0254,Gotion,,,Unknown,Unknown
+JOB0255,Mercor,Data Scientist,Data Scientist,Data Science,Unspecified
+JOB0256,Booz Allen Hamilton,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0257,PartsSource,Data Analyst,Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0258,AB InBev,Data Scientist: AI & ML,Data Scientist: AI & ML,Data Science,Unspecified
+JOB0259,Zip,"Software Engineer, New Grad (2027 Start)","Software Engineer, New Grad (2027 Start)",Software Engineering,New Graduate / Early Career
+JOB0260,Jane Street,,,Unknown,Unknown
+JOB0261,Howmet Aerospace,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0262,Ginas Tech Jobs,"LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home","LLM Application Engineer, Artificial Intelligence (AI) Required, Work From Home",AI / Machine Learning,Unspecified
+JOB0263,Boyd Gaming,​Data Strategies Analyst ​,​Data Strategies Analyst ​,Other Analyst,Unspecified
+JOB0264,M3USA,AI Engineer (Remote),AI Engineer (Remote),AI / Machine Learning,Unspecified
+JOB0265,Core,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0266,Amgen Inc,Data Scientist (Open),Data Scientist (Open),Data Science,Unspecified
+JOB0267,SunnyData,Data Analytics Engineer,Data Analytics Engineer,Data / Analytics Analyst,Unspecified
+JOB0268,USP Management,Entry IT Support Specialist,Entry IT Support Specialist,Information Technology,Unspecified
+JOB0269,Hardwire LLC,IT Support Specialist,IT Support Specialist,Information Technology,Unspecified
+JOB0270,SpaceX,Full Stack Software Engineer (Components),Full Stack Software Engineer (Components),Software Engineering,Unspecified
+JOB0271,ASSYST,"GIS Analyst position with ASSYST, Inc",GIS Analyst,Other Analyst,Unspecified
+JOB0272,Applied Materials,"2027 Software Engineer (DevOps), New College Grad - Bachelor's (Gloucester, MA)","2027 Software Engineer (DevOps), New College Grad - Bachelor's (Gloucester, MA)",Software Engineering,Unspecified
+JOB0273,Applied Materials,"Data Scientist New College Grad - Masters Degree (Santa Clara, CA)","Data Scientist New College Grad - Masters Degree (Santa Clara, CA)",Data Science,Unspecified
+JOB0274,ClickUp,Staff Data Engineer,Staff Data Engineer,Data Engineering,Lead / Principal / Staff
+JOB0275,Jobgether,Data Platform Engineer - AI Platform,Data Platform Engineer - AI Platform,Other Engineering,Unspecified
+JOB0276,our company,Data Engineer - Operational Support (Co-op),Data Engineer - Operational Support (Co-op),Data Engineering,Internship / Co-op
+JOB0277,Jane Street,,,Unknown,Unknown
+JOB0278,Voxelcloud,Data Engineer Intern,Data Engineer Intern,Data Engineering,Internship / Co-op
+JOB0279,Philips,"Full Time- Graduate Development Program-AI & Analytics Associate-Nashville, TN or Cambridge, MA-2027-587083","Full Time- Graduate Development Program-AI & Analytics Associate-Nashville, TN or Cambridge, MA-2027-587083",AI / Machine Learning,New Graduate / Early Career
+JOB0280,cmcenergy,Program Analyst,Program Analyst,Other Analyst,Unspecified
+JOB0281,PathAI,"Software Engineer I, Fullstack","Software Engineer I, Fullstack",Software Engineering,Unspecified
+JOB0282,Curant Health Georgia LLC,Data Engineer II,Data Engineer II,Data Engineering,Unspecified
+JOB0283,Philips,"Full Time- Graduate Development Program-AI & Analytics Associate-Nashville, TN or Cambridge, MA-2027-587083 position at Philips",AI & Analytics Associate,AI / Machine Learning,Associate
+JOB0284,Mullins Mechanical,,,Unknown,Unknown
+JOB0285,Ascension Technology Corporation,Software Developer,Software Developer,Software Engineering,Unspecified
+JOB0286,T-Mobile,"REQ367128 Associate Engineer, Software","REQ367128 Associate Engineer, Software",Other Engineering,Associate
+JOB0287,AtOrchard LLC,Machine Learning Engineer,Machine Learning Engineer,AI / Machine Learning,Unspecified
+JOB0288,cmcenergy,Program Analyst,Program Analyst,Other Analyst,Unspecified
+JOB0289,Alarm.com,,,Unknown,Unknown
+JOB0290,Caristo Diagnostics,IT Support Engineer,IT Support Engineer,Information Technology,Unspecified
+JOB0291,Regions,"2027 ETP Analyst- Technology, Operations, Digital, and Data. Regions 2026 Interns only","2027 ETP Analyst- Technology, Operations, Digital, and Data. Regions 2026 Interns only",Other Analyst,Internship / Co-op
+JOB0292,Inca Digital,,,Unknown,Unknown
+JOB0293,usbank,Branch Operations Data Engineer,Branch Operations Data Engineer,Data Engineering,Unspecified
+JOB0294,Commence,Health Data Analyst Intern,Health Data Analyst Intern,Data / Analytics Analyst,Internship / Co-op
+JOB0295,Grande,Data Analytics Science Intern,Data Analytics Science Intern,Data / Analytics Analyst,Internship / Co-op
+JOB0296,T-Mobile,"REQ367800 Assoc Engineer, AI","REQ367800 Assoc Engineer, AI",Other Engineering,Unspecified
+JOB0297,Orbital,Test Engineer,Test Engineer,QA / Testing,Unspecified
+JOB0298,Eurofins PSS,,,Unknown,Unknown
+JOB0299,Jobgether,AWS/ETL Engineer,AWS/ETL Engineer,Data Engineering,Unspecified
+JOB0300,US Conec,,,Unknown,Unknown
+JOB0301,Faith Technologies,Integration Analyst I,Integration Analyst I,Other Analyst,Unspecified
+JOB0302,KION Group,role Operational Data Scientist (JR-0094436),Operational Data Scientist,Data Science,Unspecified
+JOB0303,REC22 INC,,,Unknown,Unknown
+JOB0304,Howmet Aerospace,Data Engineer position at Howmet Aerospace,Data Engineer,Data Engineering,Unspecified
+JOB0305,PwC,,,Unknown,Unknown
+JOB0306,Averna,Data Analyst,Data Analyst,Data / Analytics Analyst,Unspecified
+JOB0307,PhoenixTeam,AWS/ETL Engineer,AWS/ETL Engineer,Data Engineering,Unspecified
+JOB0308,FanDuel,,,Unknown,Unknown
+JOB0309,Intel,IT Project Analyst,IT Project Analyst,Other Analyst,Unspecified
+JOB0310,Barclays,,,Unknown,Unknown
+JOB0311,Rahul Ace IT — Ace IT,QA Tester opportunity through our job posting,QA Tester opportunity through our job posting,QA / Testing,Unspecified
+JOB0312,Application Update,Entry Level Analyst,Entry Level Analyst,Other Analyst,Entry Level / Junior
+JOB0313,Booz Allen Hamilton,"Digital Solutions Requirements Analyst, Junior","Digital Solutions Requirements Analyst, Junior",Other Analyst,Entry Level / Junior
+JOB0314,SMX,Junior Software Engineer (5510),Junior Software Engineer (5510),Software Engineering,Entry Level / Junior
+JOB0315,State Street,,,Unknown,Unknown
+JOB0316,FMS Aerospace,"Design Engineer, Jr Level","Design Engineer, Jr Level",Other Engineering,Entry Level / Junior
+JOB0317,GDIT,Junior Software Engineer (Clearance Sponsorship),Junior Software Engineer (Clearance Sponsorship),Software Engineering,Entry Level / Junior
+JOB0318,"UPSLOPE ADVISORS, INC",Data/Integration Engineer,Data/Integration Engineer,Other Engineering,Unspecified
+JOB0319,Motional,Machine Learning Systems Engineer,Machine Learning Systems Engineer,AI / Machine Learning,Unspecified
+JOB0320,Micron,New College Grad - IT Software Support Engineer,New College Grad - IT Software Support Engineer,Other Engineering,Unspecified
+JOB0321,Booz Allen Hamilton,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0322,Status Update,Data Analyst Engineer,Data Analyst Engineer,Data / Analytics Analyst,Unspecified
+JOB0323,KBR,Junior Software Integration Engineer,Junior Software Integration Engineer,Other Engineering,Entry Level / Junior
+JOB0324,Complete Care,,,Unknown,Unknown
+JOB0325,kbr,Junior Software Integration Engineer,Junior Software Integration Engineer,Other Engineering,Entry Level / Junior
+JOB0326,Ruby Labs,Data Engineer,Data Engineer,Data Engineering,Unspecified
+JOB0327,PayIt,,,Unknown,Unknown
+JOB0328,Cardamom,Epic Analyst (Entry-Level),Epic Analyst (Entry-Level),Other Analyst,Entry Level / Junior
+JOB0329,ornn.com,Junior Software Engineer,Junior Software Engineer,Software Engineering,Entry Level / Junior
+JOB0330,Fanatics,Quantitative Analyst I,Quantitative Analyst I,Other Analyst,Unspecified
+JOB0331,Complete Care,,,Unknown,Unknown
+JOB0332,Cortica,Junior AI Data Engineer,Junior AI Data Engineer,Data Engineering,Entry Level / Junior
+JOB0333,Workday HRHPI,HP Inc position of Software Developer Internship We will not be moving forward,HP Inc position of Software Developer Internship We will not be moving forward,Software Engineering,Internship / Co-op
+JOB0334,the City of Fort Wayne,GIS (Geographic Information System) Intern position with the City of Fort Wayne,GIS (Geographic Information System) Intern,Other,Internship / Co-op
+JOB0335,City of Fort Wayne,Computer Science Intern,Computer Science Intern,Other,Internship / Co-op
+JOB0336,Adobe,2026 Intern - Experience Design,2026 Intern - Experience Design,Other,Internship / Co-op
+JOB0337,CEI,"Software Developer Intern (Java) role with CEI and our client, BNP Paribas","Software Developer Intern (Java) role with CEI and our client, BNP Paribas",Software Engineering,Internship / Co-op
+JOB0338,Mercury,Data Science Intern,Data Science Intern,Data Science,Internship / Co-op
+JOB0339,sekologistics,IT Intern,IT Intern,Information Technology,Internship / Co-op
+JOB0340,Lunar Energy,,,Unknown,Unknown
+JOB0341,Ricoh,position of SW Engineer Support Intern,SW Engineer Support Intern,Other Engineering,Internship / Co-op
+JOB0342,Strata,"Intern, Software Engineering","Intern, Software Engineering",Software Engineering,Internship / Co-op
+JOB0343,Medical Informatics Engineering,,,Unknown,Unknown
+JOB0344,Crown,,,Unknown,Unknown
+JOB0345,Crown,,,Unknown,Unknown
+JOB0346,DMA,Software QA Engineer,Software QA Engineer,QA / Testing,Unspecified
+JOB0347,Pacific Fusion,Summer 2026 Internship - Software Engineering,Summer 2026 Internship - Software Engineering,Software Engineering,Internship / Co-op
+JOB0348,Textron,"2026 Intern - IT Analyst - Slidell, LA-333599","2026 Intern - IT Analyst - Slidell, LA-333599",Other Analyst,Internship / Co-op
+JOB0349,OneStream,Associate Software Development Engineering in Test Intern,Associate Software Development Engineering in Test Intern,Software Engineering,Internship / Co-op
+JOB0350,TikTok,Machine Learning Engineer Intern (Search Ads)- 2026 Summer (BS/MS),Machine Learning Engineer Intern (Search Ads)- 2026 Summer (BS/MS),AI / Machine Learning,Internship / Co-op
+JOB0351,Best Egg,2026 Summer Internship - Backend Software Engineering Intern,2026 Summer Internship - Backend Software Engineering Intern,Software Engineering,Internship / Co-op
+JOB0352,Tenstorrent,,,Unknown,Unknown
+JOB0353,BorgWarner,IT Co-op/Intern,IT Co-op/Intern,Information Technology,Internship / Co-op
+JOB0354,Monster Energy,,,Unknown,Unknown
+JOB0355,Allegacy Federal Credit Union,Student Assistant Intern – Data Analytics,Student Assistant Intern – Data Analytics,Data / Analytics Analyst,Internship / Co-op
+JOB0356,Perpay,,,Unknown,Unknown
+JOB0357,Aquatic Capital Management,,,Unknown,Unknown
+JOB0358,SpecterOps,,,Unknown,Unknown
+JOB0359,Strata Decision Technology,,,Unknown,Unknown
+JOB0360,Wasabi Technologies,,,Unknown,Unknown
+JOB0361,Lila Sciences,,,Unknown,Unknown
+JOB0362,St. Luke's University Health Network,Information Technology Intern (Open),Information Technology Intern (Open),Information Technology,Internship / Co-op
+JOB0363,Monster Energy,,,Unknown,Unknown
+JOB0364,OneStream Software,Associate Software Development Engineering in Test Intern,Associate Software Development Engineering in Test Intern,Software Engineering,Internship / Co-op
+JOB0365,copart,,,Unknown,Unknown
+JOB0366,Roku,"Software Engineer Intern, Streaming Media","Software Engineer Intern, Streaming Media",Software Engineering,Internship / Co-op
+JOB0367,Synopsys,Intern -,Intern -,Other,Internship / Co-op
+JOB0368,a career at Life Time,AI Software Engineer - Internship​​​​​​​​,AI Software Engineer - Internship​​​​​​​​,Software Engineering,Internship / Co-op
+JOB0369,LeoLabs,and look forward to the possibility of connecting,,Unknown,Unknown
+JOB0370,Omnicom Health,Bold Beginners - Data Science Intern,Bold Beginners - Data Science Intern,Data Science,Internship / Co-op
+JOB0371,Dusty Robotics,Fullstack Software Engineering Intern — Web Platform,Fullstack Software Engineering Intern — Web Platform,Software Engineering,Internship / Co-op
+JOB0372,Perpay,,,Unknown,Unknown
+JOB0373,IXL Learning,,,Unknown,Unknown
+JOB0374,Omnicom Health,2026 Bold Beginners - Full Stack Developer Intern,2026 Bold Beginners - Full Stack Developer Intern,Software Engineering,Internship / Co-op
+JOB0375,ASM,Software Engineering Intern (Summer 2026),Software Engineering Intern (Summer 2026),Software Engineering,Internship / Co-op
+JOB0376,Galileo,"Intern, Software Engineer, Settlement position at Galileo","Software Engineer Intern, Settlement",Software Engineering,Internship / Co-op
+JOB0377,Blain’s Farm & Fleet,IT Intern position at our Blain Supply location,IT Intern,Information Technology,Internship / Co-op
+JOB0378,State of South Carolina,employment with the State of South Carolina,,Unknown,Unknown
+JOB0379,rakuten,,,Unknown,Unknown
+JOB0380,VOSS,,,Unknown,Unknown
+JOB0381,Mantari,,,Unknown,Unknown
+JOB0382,Jefferson Health,,,Unknown,Unknown
+JOB0383,AFL Telecommunications LLC,Web Design/ Development Intern- Summer 2026,Web Design/ Development Intern- Summer 2026,Software Engineering,Internship / Co-op
+JOB0384,Enova,,,Unknown,Unknown
+JOB0385,Russell,Information Technology Intern,Information Technology Intern,Information Technology,Internship / Co-op
+JOB0386,HARMAN,Summer Intern - Software Engineer position with HARMAN,Software Engineer Intern,Software Engineering,Internship / Co-op
+JOB0387,HARMAN,Summer Intern - AI/Data Analytics position with HARMAN,AI/Data Analytics Intern,AI / Machine Learning,Internship / Co-op
+JOB0388,City of Fort Wayne,,,Unknown,Unknown
+JOB0389,Milliman,Software Developer Intern (Seattle Health),Software Developer Intern (Seattle Health),Software Engineering,Internship / Co-op
+JOB0390,SharkNinja,Summer 2026: UX Design Intern (May to August),Summer 2026: UX Design Intern (May to August),Other,Internship / Co-op
+JOB0391,Bio-Techne,,,Unknown,Unknown
+JOB0392,Array Technologies,,,Unknown,Unknown
+JOB0393,Intel,"Software Engineering - Intern, Bachelor’s","Software Engineering - Intern, Bachelor’s",Software Engineering,Internship / Co-op
+JOB0394,copart,,,Unknown,Unknown
+JOB0395,"MPS Group, Inc","IT Support Internship - Headquarters position at MPS Group, Inc",IT Support Intern,Information Technology,Internship / Co-op
+JOB0396,Cohen & Co,"End User Technologies Intern, Summer 2026 opportunity","End User Technologies Intern, Summer 2026 opportunity",Information Technology,Internship / Co-op
+JOB0397,Mobis North America,Automotive Software Engineer- Co-op,Automotive Software Engineer- Co-op,Software Engineering,Internship / Co-op
+JOB0398,Rivian,Software Engineering - Summer 2026 Internships,Software Engineering - Summer 2026 Internships,Software Engineering,Internship / Co-op
+JOB0399,"ECS Federal, LLC",position of IT Intern,IT Intern,Information Technology,Internship / Co-op
+JOB0400,Schneider,Software Engineering Intern - Summer 2026,Software Engineering Intern - Summer 2026,Software Engineering,Internship / Co-op
+JOB0401,Robert Bosch LLC,,,Unknown,Unknown
+JOB0402,HARMAN,"Summer Intern - Sound Quality Benchmarking, Experiential R&D position with HARMAN","Sound Quality Benchmarking, Experiential R&D Intern",Other,Internship / Co-op
+JOB0403,Perpay,,,Unknown,Unknown
+JOB0404,C3 AI,Software Engineer - Intern (Summer 2026),Software Engineer - Intern (Summer 2026),Software Engineering,Internship / Co-op
+JOB0405,Medical Informatics Engineering,,,Unknown,Unknown
+JOB0406,Juvare,2026 Internship - Fullstack Developer,2026 Internship - Fullstack Developer,Other Development,Internship / Co-op
+JOB0407,"Cohen & Co Advisory, LLC",,,Unknown,Unknown
+JOB0408,Milliman,Software Developer Intern (Summer 2026) – Indianapolis Health,Software Developer Intern (Summer 2026) – Indianapolis Health,Software Engineering,Internship / Co-op
+JOB0409,KLA,Algorithm Engineering Intern (Image Processing),Algorithm Engineering Intern (Image Processing),Other Engineering,Internship / Co-op
+JOB0410,"Shambaugh & Son, L",Intern,Intern,Other,Internship / Co-op
+JOB0411,SoFi,"Intern, Software Engineer, Settlement","Intern, Software Engineer, Settlement",Software Engineering,Internship / Co-op
+JOB0412,Liberty Mutual,Solaria Labs Software Development Co-op (July - Dec 2026),Solaria Labs Software Development Co-op (July - Dec 2026),Software Engineering,Internship / Co-op
+JOB0413,Netflix,"Machine Learning Engineer Intern, (MS/PhD) 2026 at Netflix","Machine Learning Engineer Intern, (MS/PhD) 2026 at Netflix",AI / Machine Learning,Internship / Co-op
+JOB0414,AMP,Software Engineering - Intern,Software Engineering - Intern,Software Engineering,Internship / Co-op
+JOB0415,AST SpaceMobile,Intern - MOPS Software Development,Intern - MOPS Software Development,Software Engineering,Internship / Co-op
+JOB0416,EquipmentShare,Intern: Software Engineer,Intern: Software Engineer,Software Engineering,Internship / Co-op
+JOB0417,Roadie,,,Unknown,Unknown
+JOB0418,Glydways,,,Unknown,Unknown
+JOB0419,AST SpaceMobile,Intern - Software Development,Intern - Software Development,Software Engineering,Internship / Co-op
+JOB0420,Sigma Computing,,,Unknown,Unknown
+JOB0421,Sigma Computing,,,Unknown,Unknown
+JOB0422,Sigma Computing,,,Unknown,Unknown
+JOB0423,Exiger,,,Unknown,Unknown
+JOB0424,ABB,position of Project Management Intern-Summer 2026,Project Management Intern,Other,Internship / Co-op
+JOB0425,IBM,Platform Engineer Intern – Entry Level Sales Program 2026,Platform Engineer Intern – Entry Level Sales Program 2026,Other Engineering,Internship / Co-op
+JOB0426,Appen,,,Unknown,Unknown
+JOB0427,ConvergeOne,Application Development Intern- Artificial Intelligence,Application Development Intern- Artificial Intelligence,AI / Machine Learning,Internship / Co-op
+JOB0428,Mercury,,,Unknown,Unknown
+JOB0429,KLA,Research Scientist Intern,Research Scientist Intern,Data Science,Internship / Co-op
+JOB0430,Unknown,,,Unknown,Unknown
+JOB0431,SiriusXM,"Summer Intern, Automotive Product Development","Summer Intern, Automotive Product Development",Other,Internship / Co-op
+JOB0432,HARMAN,Summer Intern - Software Developer - DigITal position with HARMAN,Software Developer Intern,Software Engineering,Internship / Co-op
+JOB0433,Itron,"Itron: Intern - Software Engineer (Summer 2026) , JR102098","Itron: Intern - Software Engineer (Summer 2026) , JR102098",Software Engineering,Internship / Co-op
+JOB0434,RTX,position of 01790571 2026 Intern - Software Engineer -Test Equipment - Onsite,Software Engineer - Test Equipment Intern,Software Engineering,Internship / Co-op
+JOB0435,City of Fort Wayne,,,Unknown,Unknown
+JOB0436,Amazon,Software Development Engineer Internship - Summer 2026 (US),Software Development Engineer Internship - Summer 2026 (US),Software Engineering,Internship / Co-op
+JOB0437,Intuitive,Fullstack Software Engineering Intern,Fullstack Software Engineering Intern,Software Engineering,Internship / Co-op
+JOB0438,Intuitive,Platform Software Engineering Intern,Platform Software Engineering Intern,Software Engineering,Internship / Co-op
+JOB0439,DraftKings,Software Engineer Co-Op,Software Engineer Co-Op,Software Engineering,Internship / Co-op
+JOB0440,Gen,Software Engineering Intern,Software Engineering Intern,Software Engineering,Internship / Co-op
+JOB0441,PACCAR,Software Engineering Intern - Powertrain Development,Software Engineering Intern - Powertrain Development,Software Engineering,Internship / Co-op
+JOB0442,Itron,Intern - Software Engineer (Summer 2026),Intern - Software Engineer (Summer 2026),Software Engineering,Internship / Co-op
+JOB0443,Workday HRHPI,,,Unknown,Unknown
+JOB0444,Apex,"Software Engineering Internship, Integrated Solutions (Summer 2026)","Software Engineering Internship, Integrated Solutions (Summer 2026)",Software Engineering,Internship / Co-op
+JOB0445,OTR Solutions,,,Unknown,Unknown
+JOB0446,Compass Group,FOOD SERVICE WORKER (PART TIME),FOOD SERVICE WORKER (PART TIME),Other,Unspecified
+JOB0447,ITW,2026 Summer Software Engineer Internship,2026 Summer Software Engineer Internship,Software Engineering,Internship / Co-op
+JOB0448,C3 AI,Software Engineer - Intern (Summer 2026),Software Engineer - Intern (Summer 2026),Software Engineering,Internship / Co-op
+JOB0449,Garner Health,,,Unknown,Unknown
+JOB0450,Classavo,Software Developer Intern,Software Developer Intern,Software Engineering,Internship / Co-op
+JOB0451,RE/SPEC Inc,Student Software Engineering Intern,Student Software Engineering Intern,Software Engineering,Internship / Co-op
+JOB0452,CDK Global,,,Unknown,Unknown
+JOB0453,DMA,Software Development Intern - Spring,Software Development Intern - Spring,Software Engineering,Internship / Co-op
+JOB0454,Robert Bosch LLC,,,Unknown,Unknown
+JOB0455,BorgWarner,Engineering Intern-1,Engineering Intern-1,Other Engineering,Internship / Co-op
