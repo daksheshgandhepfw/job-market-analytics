@@ -44,3 +44,11 @@ data/processed/*
 !data/processed/jobs_final.csv
 !data/processed/applications.csv
 !data/processed/application_analysis.csv
+
+# Tableau temporary and recovery files
+*.twbr
+*.twbr~
+.~*
+
+# Tableau Hyper API logs
+hyperd.log
