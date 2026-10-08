@@ -52,5 +52,4 @@ data/processed/*
 
 # Tableau Hyper API logs
 hyperd.log
-# Private Tableau workbook
-dashboard/job_market_analytics.twbx
+
